@@ -26,7 +26,7 @@ const ovejas = [
 ];
 contarOvejas(ovejas); /* Output: [{ name: 'Navidad', color: 'rojo' }, { name: 'Ki Na Ma', color: 'rojo' }] */
 ```
-[Mi Solucion Propuesta]()
+[Mi Solucion Propuesta](https://github.com/HenryBlairG/CodingChallenges/blob/main/javascript/adventJS2021/01.js)
   
 </details>
 
